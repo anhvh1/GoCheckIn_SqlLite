@@ -1,0 +1,16 @@
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Ultilities\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.deps.json
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Ultilities\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.dll
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Ultilities\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.pdb
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.csprojAssemblyReference.cache
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.AssemblyInfoInputs.cache
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.AssemblyInfo.cs
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.dll
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.pdb
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Ultilities\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.deps.json
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Ultilities\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.dll
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Ultilities\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.pdb
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.csprojAssemblyReference.cache
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.AssemblyInfoInputs.cache
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.AssemblyInfo.cs
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.dll
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Ultilities.pdb

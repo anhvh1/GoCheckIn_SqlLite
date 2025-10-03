@@ -1,0 +1,17 @@
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.BUS\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.BUS.deps.json
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.BUS\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.BUS.dll
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.BUS\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.BUS.pdb
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.BUS\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.DAL.dll
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.BUS\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.dll
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.BUS\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Security.dll
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.BUS\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Ultilities.dll
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.BUS\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.DAL.pdb
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.BUS\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.pdb
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.BUS\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Security.pdb
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.BUS\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Ultilities.pdb
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.BUS\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.BUS.csprojAssemblyReference.cache
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.BUS\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.BUS.AssemblyInfoInputs.cache
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.BUS\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.BUS.AssemblyInfo.cs
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.BUS\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.BUS.csproj.CopyComplete
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.BUS\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.BUS.dll
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.BUS\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.BUS.pdb

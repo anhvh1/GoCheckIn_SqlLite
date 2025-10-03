@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Com.Gosol.INOUT.Ultilities", "Com.Gosol.INOUT.Ultilities\Com.Gosol.INOUT.Ultilities.csproj", "{84422F37-6EAC-4E27-AC19-49D106D779B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Com.Gosol.INOUT.Security", "Com.Gosol.INOUT.Security\Com.Gosol.INOUT.Security.csproj", "{11F0A4E4-1AD2-48D2-BFB4-EC830C3F5C92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Com.Gosol.INOUT.Models", "Com.Gosol.INOUT.Models\Com.Gosol.INOUT.Models.csproj", "{1302B592-08A4-4EBC-BC45-95334BCCD9E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Com.Gosol.INOUT.DAL", "Com.Gosol.INOUT.DAL\Com.Gosol.INOUT.DAL.csproj", "{06DB356D-0D80-4E46-BC61-998DFA6E78B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Com.Gosol.INOUT.BUS", "Com.Gosol.INOUT.BUS\Com.Gosol.INOUT.BUS.csproj", "{389F5234-30B1-43D3-9462-9D6530ACA07C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Com.Gosol.INOUT.API", "Com.Gosol.INOUT.API\Com.Gosol.INOUT.API.csproj", "{D15FF25F-35C8-441E-AE8C-733B46C1251C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84422F37-6EAC-4E27-AC19-49D106D779B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84422F37-6EAC-4E27-AC19-49D106D779B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84422F37-6EAC-4E27-AC19-49D106D779B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84422F37-6EAC-4E27-AC19-49D106D779B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F0A4E4-1AD2-48D2-BFB4-EC830C3F5C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F0A4E4-1AD2-48D2-BFB4-EC830C3F5C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F0A4E4-1AD2-48D2-BFB4-EC830C3F5C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F0A4E4-1AD2-48D2-BFB4-EC830C3F5C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1302B592-08A4-4EBC-BC45-95334BCCD9E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1302B592-08A4-4EBC-BC45-95334BCCD9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1302B592-08A4-4EBC-BC45-95334BCCD9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1302B592-08A4-4EBC-BC45-95334BCCD9E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06DB356D-0D80-4E46-BC61-998DFA6E78B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06DB356D-0D80-4E46-BC61-998DFA6E78B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06DB356D-0D80-4E46-BC61-998DFA6E78B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06DB356D-0D80-4E46-BC61-998DFA6E78B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{389F5234-30B1-43D3-9462-9D6530ACA07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389F5234-30B1-43D3-9462-9D6530ACA07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389F5234-30B1-43D3-9462-9D6530ACA07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389F5234-30B1-43D3-9462-9D6530ACA07C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15FF25F-35C8-441E-AE8C-733B46C1251C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15FF25F-35C8-441E-AE8C-733B46C1251C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15FF25F-35C8-441E-AE8C-733B46C1251C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15FF25F-35C8-441E-AE8C-733B46C1251C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DC144A7-E977-40E4-A77A-25FD36636059}
+	EndGlobalSection
+EndGlobal

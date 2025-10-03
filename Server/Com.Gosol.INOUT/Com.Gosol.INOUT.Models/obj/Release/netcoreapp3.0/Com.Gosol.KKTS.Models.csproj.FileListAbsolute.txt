@@ -1,0 +1,16 @@
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.deps.json
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.dll
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.pdb
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.csprojAssemblyReference.cache
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.AssemblyInfoInputs.cache
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.AssemblyInfo.cs
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.dll
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.pdb
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.deps.json
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.dll
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.pdb
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.csprojAssemblyReference.cache
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.AssemblyInfoInputs.cache
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.AssemblyInfo.cs
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.dll
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Models.pdb

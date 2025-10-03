@@ -1,0 +1,15 @@
+E:\Works\TheoDoiChiDao\Source\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.deps.json
+E:\Works\TheoDoiChiDao\Source\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.dll
+E:\Works\TheoDoiChiDao\Source\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.pdb
+E:\Works\TheoDoiChiDao\Source\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.AssemblyInfoInputs.cache
+E:\Works\TheoDoiChiDao\Source\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.AssemblyInfo.cs
+E:\Works\TheoDoiChiDao\Source\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.dll
+E:\Works\TheoDoiChiDao\Source\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Models\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.pdb
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.Models\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.deps.json
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.Models\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.dll
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.Models\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.pdb
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.Models\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.csprojAssemblyReference.cache
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.Models\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.AssemblyInfoInputs.cache
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.Models\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.AssemblyInfo.cs
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.Models\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.dll
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.Models\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.pdb

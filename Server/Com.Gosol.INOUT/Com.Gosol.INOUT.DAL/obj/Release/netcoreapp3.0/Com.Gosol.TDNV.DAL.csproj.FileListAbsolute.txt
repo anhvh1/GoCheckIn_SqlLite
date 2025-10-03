@@ -1,0 +1,15 @@
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.DAL\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.DAL.deps.json
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.DAL\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.DAL.dll
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.DAL\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.DAL.pdb
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.DAL\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.dll
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.DAL\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Security.dll
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.DAL\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Ultilities.dll
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.DAL\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Models.pdb
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.DAL\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Security.pdb
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.DAL\bin\Release\netcoreapp3.0\Com.Gosol.TDNV.Ultilities.pdb
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.DAL\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.DAL.csprojAssemblyReference.cache
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.DAL\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.DAL.AssemblyInfoInputs.cache
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.DAL\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.DAL.AssemblyInfo.cs
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.DAL\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.DAL.csproj.CopyComplete
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.DAL\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.DAL.dll
+E:\Works\ThoiDoiNhiemVu_46\Server\Com.Gosol.TDNV\Com.Gosol.TDNV.DAL\obj\Release\netcoreapp3.0\Com.Gosol.TDNV.DAL.pdb

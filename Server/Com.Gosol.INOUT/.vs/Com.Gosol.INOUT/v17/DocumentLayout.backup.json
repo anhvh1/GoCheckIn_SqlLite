@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|solutionrelative:com.gosol.inout.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|solutionrelative:com.gosol.inout.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB356D-0D80-4E46-BC61-998DFA6E78B0}|Com.Gosol.INOUT.DAL\\Com.Gosol.INOUT.DAL.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.dal\\inout\\vaorav4dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DB356D-0D80-4E46-BC61-998DFA6E78B0}|Com.Gosol.INOUT.DAL\\Com.Gosol.INOUT.DAL.csproj|solutionrelative:com.gosol.inout.dal\\inout\\vaorav4dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389F5234-30B1-43D3-9462-9D6530ACA07C}|Com.Gosol.INOUT.BUS\\Com.Gosol.INOUT.BUS.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.bus\\vaora\\vaorav4bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389F5234-30B1-43D3-9462-9D6530ACA07C}|Com.Gosol.INOUT.BUS\\Com.Gosol.INOUT.BUS.csproj|solutionrelative:com.gosol.inout.bus\\vaora\\vaorav4bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.api\\controllers\\vaora\\vaorav4controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|solutionrelative:com.gosol.inout.api\\controllers\\vaora\\vaorav4controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.api\\controllers\\tinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|solutionrelative:com.gosol.inout.api\\controllers\\tinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|solutionrelative:com.gosol.inout.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.api\\controllers\\quantrihethong\\danhmucdiagioihanhchinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|solutionrelative:com.gosol.inout.api\\controllers\\quantrihethong\\danhmucdiagioihanhchinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.api\\controllers\\quantrihethong\\danhmuccoquandonviv4controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|solutionrelative:com.gosol.inout.api\\controllers\\quantrihethong\\danhmuccoquandonviv4controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB356D-0D80-4E46-BC61-998DFA6E78B0}|Com.Gosol.INOUT.DAL\\Com.Gosol.INOUT.DAL.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.dal\\quantrihethong\\systemconfigdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DB356D-0D80-4E46-BC61-998DFA6E78B0}|Com.Gosol.INOUT.DAL\\Com.Gosol.INOUT.DAL.csproj|solutionrelative:com.gosol.inout.dal\\quantrihethong\\systemconfigdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB356D-0D80-4E46-BC61-998DFA6E78B0}|Com.Gosol.INOUT.DAL\\Com.Gosol.INOUT.DAL.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.dal\\inout\\vaoradal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DB356D-0D80-4E46-BC61-998DFA6E78B0}|Com.Gosol.INOUT.DAL\\Com.Gosol.INOUT.DAL.csproj|solutionrelative:com.gosol.inout.dal\\inout\\vaoradal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389F5234-30B1-43D3-9462-9D6530ACA07C}|Com.Gosol.INOUT.BUS\\Com.Gosol.INOUT.BUS.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.bus\\vaora\\filedinhkembus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389F5234-30B1-43D3-9462-9D6530ACA07C}|Com.Gosol.INOUT.BUS\\Com.Gosol.INOUT.BUS.csproj|solutionrelative:com.gosol.inout.bus\\vaora\\filedinhkembus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.api\\controllers\\vaora\\vaoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|solutionrelative:com.gosol.inout.api\\controllers\\vaora\\vaoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB356D-0D80-4E46-BC61-998DFA6E78B0}|Com.Gosol.INOUT.DAL\\Com.Gosol.INOUT.DAL.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.dal\\quantrihethong\\hethongcanbodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DB356D-0D80-4E46-BC61-998DFA6E78B0}|Com.Gosol.INOUT.DAL\\Com.Gosol.INOUT.DAL.csproj|solutionrelative:com.gosol.inout.dal\\quantrihethong\\hethongcanbodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB356D-0D80-4E46-BC61-998DFA6E78B0}|Com.Gosol.INOUT.DAL\\Com.Gosol.INOUT.DAL.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.dal\\quantrihethong\\danhmuccoquandonvidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DB356D-0D80-4E46-BC61-998DFA6E78B0}|Com.Gosol.INOUT.DAL\\Com.Gosol.INOUT.DAL.csproj|solutionrelative:com.gosol.inout.dal\\quantrihethong\\danhmuccoquandonvidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DB356D-0D80-4E46-BC61-998DFA6E78B0}|Com.Gosol.INOUT.DAL\\Com.Gosol.INOUT.DAL.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.dal\\inout\\filedinhkemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DB356D-0D80-4E46-BC61-998DFA6E78B0}|Com.Gosol.INOUT.DAL\\Com.Gosol.INOUT.DAL.csproj|solutionrelative:com.gosol.inout.dal\\inout\\filedinhkemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.api\\controllers\\commons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|solutionrelative:com.gosol.inout.api\\controllers\\commons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84422F37-6EAC-4E27-AC19-49D106D779B3}|Com.Gosol.INOUT.Ultilities\\Com.Gosol.INOUT.Ultilities.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.ultilities\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84422F37-6EAC-4E27-AC19-49D106D779B3}|Com.Gosol.INOUT.Ultilities\\Com.Gosol.INOUT.Ultilities.csproj|solutionrelative:com.gosol.inout.ultilities\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Startup.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.API\\Startup.cs",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Startup.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.API\\Startup.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAgwBABAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:33:14.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VaoRaV4BUS.cs",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.BUS\\VaoRa\\VaoRaV4BUS.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.BUS\\VaoRa\\VaoRaV4BUS.cs",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.BUS\\VaoRa\\VaoRaV4BUS.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.BUS\\VaoRa\\VaoRaV4BUS.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAewGkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T02:45:29.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VaoRaController.cs",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Controllers\\VaoRa\\VaoRaController.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.API\\Controllers\\VaoRa\\VaoRaController.cs",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Controllers\\VaoRa\\VaoRaController.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.API\\Controllers\\VaoRa\\VaoRaController.cs",
+              "ViewState": "AgIAAN8BAAAAAAAAAAAvwPkBAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T02:30:09.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VaoRaDAL.cs",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.DAL\\InOut\\VaoRaDAL.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.DAL\\InOut\\VaoRaDAL.cs",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.DAL\\InOut\\VaoRaDAL.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.DAL\\InOut\\VaoRaDAL.cs",
+              "ViewState": "AgIAABMCAAAAAAAAAIA+wCUCAACsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:22:48.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DanhMucCoQuanDonViDAL.cs",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.DAL\\QuanTriHeThong\\DanhMucCoQuanDonViDAL.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.DAL\\QuanTriHeThong\\DanhMucCoQuanDonViDAL.cs",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.DAL\\QuanTriHeThong\\DanhMucCoQuanDonViDAL.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.DAL\\QuanTriHeThong\\DanhMucCoQuanDonViDAL.cs",
+              "ViewState": "AgIAAAUGAAAAAAAAAAAUwBIGAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:22:48.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HeThongCanBoDAL.cs",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.DAL\\QuanTriHeThong\\HeThongCanBoDAL.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.DAL\\QuanTriHeThong\\HeThongCanBoDAL.cs",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.DAL\\QuanTriHeThong\\HeThongCanBoDAL.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.DAL\\QuanTriHeThong\\HeThongCanBoDAL.cs",
+              "ViewState": "AgIAAK8IAAAAAAAAAAAUwLwIAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:22:48.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.API\\appsettings.json",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\appsettings.json",
+              "RelativeToolTip": "Com.Gosol.INOUT.API\\appsettings.json",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T10:39:43.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileDinhKemBUS.cs",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.BUS\\VaoRa\\FileDinhKemBUS.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.BUS\\VaoRa\\FileDinhKemBUS.cs",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.BUS\\VaoRa\\FileDinhKemBUS.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.BUS\\VaoRa\\FileDinhKemBUS.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:07:08.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileDinhKemDAL.cs",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.DAL\\InOut\\FileDinhKemDAL.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.DAL\\InOut\\FileDinhKemDAL.cs",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.DAL\\InOut\\FileDinhKemDAL.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.DAL\\InOut\\FileDinhKemDAL.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAkwG4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:00:57.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SQLHelper.cs",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Ultilities\\SQLHelper.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.Ultilities\\SQLHelper.cs",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Ultilities\\SQLHelper.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.Ultilities\\SQLHelper.cs",
+              "ViewState": "AgIAAJUBAAAAAAAAAAAcwK0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T08:57:20.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SystemConfigDAL.cs",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.DAL\\QuanTriHeThong\\SystemConfigDAL.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.DAL\\QuanTriHeThong\\SystemConfigDAL.cs",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.DAL\\QuanTriHeThong\\SystemConfigDAL.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.DAL\\QuanTriHeThong\\SystemConfigDAL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:53:42.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TinhController.cs",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Controllers\\TinhController.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.API\\Controllers\\TinhController.cs",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Controllers\\TinhController.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.API\\Controllers\\TinhController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDEAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:57:21.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DanhMucCoQuanDonViV4Controller.cs",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Controllers\\QuanTriHeThong\\DanhMucCoQuanDonViV4Controller.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.API\\Controllers\\QuanTriHeThong\\DanhMucCoQuanDonViV4Controller.cs",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Controllers\\QuanTriHeThong\\DanhMucCoQuanDonViV4Controller.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.API\\Controllers\\QuanTriHeThong\\DanhMucCoQuanDonViV4Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:11:55.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DanhMucDiaGioiHanhChinhController.cs",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Controllers\\QuanTriHeThong\\DanhMucDiaGioiHanhChinhController.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.API\\Controllers\\QuanTriHeThong\\DanhMucDiaGioiHanhChinhController.cs",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Controllers\\QuanTriHeThong\\DanhMucDiaGioiHanhChinhController.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.API\\Controllers\\QuanTriHeThong\\DanhMucDiaGioiHanhChinhController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:12:15.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Program.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.API\\Program.cs",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Program.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T09:53:35.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VaoRaV4DAL.cs",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.DAL\\InOut\\VaoRaV4DAL.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.DAL\\InOut\\VaoRaV4DAL.cs",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.DAL\\InOut\\VaoRaV4DAL.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.DAL\\InOut\\VaoRaV4DAL.cs",
+              "ViewState": "AgIAAO0EAAAAAAAAAAAQwBIFAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:16:39.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VaoRaV4Controller.cs",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Controllers\\VaoRa\\VaoRaV4Controller.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.API\\Controllers\\VaoRa\\VaoRaV4Controller.cs",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Controllers\\VaoRa\\VaoRaV4Controller.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.API\\Controllers\\VaoRa\\VaoRaV4Controller.cs",
+              "ViewState": "AgIAAMgDAAAAAAAAAAAAANIDAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:14:00.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Commons.cs",
+              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Controllers\\Commons.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.API\\Controllers\\Commons.cs",
+              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Controllers\\Commons.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.API\\Controllers\\Commons.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAADgv38AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:41:39.91Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1873,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

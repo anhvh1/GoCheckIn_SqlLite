@@ -1,0 +1,114 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Works\\InOut_46\\Server\\Com.Gosol.TDNV\\Com.Gosol.TDNV.DAL\\Com.Gosol.TDNV.DAL.csproj": {}
+  },
+  "projects": {
+    "E:\\Works\\InOut_46\\Server\\Com.Gosol.TDNV\\Com.Gosol.TDNV.DAL\\Com.Gosol.TDNV.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Works\\InOut_46\\Server\\Com.Gosol.TDNV\\Com.Gosol.TDNV.DAL\\Com.Gosol.TDNV.DAL.csproj",
+        "projectName": "Com.Gosol.TDNV.DAL",
+        "projectPath": "E:\\Works\\InOut_46\\Server\\Com.Gosol.TDNV\\Com.Gosol.TDNV.DAL\\Com.Gosol.TDNV.DAL.csproj",
+        "packagesPath": "C:\\Users\\TieuPhong\\.nuget\\packages\\",
+        "outputPath": "E:\\Works\\InOut_46\\Server\\Com.Gosol.TDNV\\Com.Gosol.TDNV.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TieuPhong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "E:\\Works\\InOut_46\\Server\\Com.Gosol.TDNV\\Com.Gosol.INOUT.Models\\Com.Gosol.INOUT.Models.csproj": {
+                "projectPath": "E:\\Works\\InOut_46\\Server\\Com.Gosol.TDNV\\Com.Gosol.INOUT.Models\\Com.Gosol.INOUT.Models.csproj"
+              },
+              "E:\\Works\\InOut_46\\Server\\Com.Gosol.TDNV\\Com.Gosol.INOUT.Security\\Com.Gosol.INOUT.Security.csproj": {
+                "projectPath": "E:\\Works\\InOut_46\\Server\\Com.Gosol.TDNV\\Com.Gosol.INOUT.Security\\Com.Gosol.INOUT.Security.csproj"
+              },
+              "E:\\Works\\InOut_46\\Server\\Com.Gosol.TDNV\\Com.Gosol.INOUT.Ultilities\\Com.Gosol.INOUT.Ultilities.csproj": {
+                "projectPath": "E:\\Works\\InOut_46\\Server\\Com.Gosol.TDNV\\Com.Gosol.INOUT.Ultilities\\Com.Gosol.INOUT.Ultilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[4.5.3.2, )"
+            },
+            "ExcelDataReader.DataSet": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "Grpc.Core": {
+              "target": "Package",
+              "version": "[2.24.0, )"
+            },
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[0.60.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.final, )"
+            },
+            "SharpZipLib": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

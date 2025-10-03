@@ -1,0 +1,16 @@
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Security\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Security.deps.json
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Security\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Security.dll
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Security\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Security.pdb
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Security\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Security.csprojAssemblyReference.cache
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Security\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Security.AssemblyInfoInputs.cache
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Security\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Security.AssemblyInfo.cs
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Security\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Security.dll
+D:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Security\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Security.pdb
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Security\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Security.deps.json
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Security\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Security.dll
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Security\bin\Release\netcoreapp3.0\Com.Gosol.KKTS.Security.pdb
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Security\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Security.csprojAssemblyReference.cache
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Security\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Security.AssemblyInfoInputs.cache
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Security\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Security.AssemblyInfo.cs
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Security\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Security.dll
+E:\Works\KeKhaiTaiSan_ViSuaSVN_45\Server\Com.Gosol.KKTS\Com.Gosol.KKTS.Security\obj\Release\netcoreapp3.0\Com.Gosol.KKTS.Security.pdb
