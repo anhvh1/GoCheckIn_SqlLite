@@ -41,6 +41,7 @@ using Com.Gosol.INOUT.BUS.VaoRaV2;
 using Com.Gosol.INOUT.DAL.VaoRaV2;
 using websocket;
 using Microsoft.AspNetCore.Http.Connections;
+using Microsoft.Extensions.FileProviders;
 
 namespace Com.Gosol.INOUT.API
 {
@@ -265,16 +266,29 @@ namespace Com.Gosol.INOUT.API
             {
                 app.UseDeveloperExceptionPage();
             }
-            app.UseStaticFiles(); // Cho phép lấy file trong wwwroot
+
+            // Cho phép lấy file trong wwwroot
+            app.UseStaticFiles();
+
             var imagePath = config["StaticFiles:ImagePath"];
             if (!string.IsNullOrEmpty(imagePath) && Directory.Exists(imagePath))
             {
                 app.UseStaticFiles(new StaticFileOptions
                 {
-                    FileProvider = new Microsoft.Extensions.FileProviders.PhysicalFileProvider(imagePath),
+                    FileProvider = new PhysicalFileProvider(imagePath),
                     RequestPath = "/ImageGoCheckIn"
                 });
             }
+
+            // Cho phép phục vụ file tĩnh (FE build)
+            app.UseDefaultFiles();
+            //app.UseStaticFiles(new StaticFileOptions
+            //{
+            //    FileProvider = new PhysicalFileProvider(
+            //        Path.Combine(Directory.GetCurrentDirectory(), "Client")),
+            //    RequestPath = ""
+            //});
+
             app.UseCors("AllowOrigin");
             app.UseSession();
             app.UseHttpsRedirection();
@@ -290,7 +304,11 @@ namespace Com.Gosol.INOUT.API
                 {
                     options.Transports = HttpTransportType.WebSockets;
                 });
+
+                // ✅ Đưa vào đây
+                endpoints.MapFallbackToFile("index.html");
             });
         }
+
     }
 }

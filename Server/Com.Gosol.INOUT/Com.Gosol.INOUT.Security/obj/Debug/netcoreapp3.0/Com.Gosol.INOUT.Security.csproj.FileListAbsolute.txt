@@ -65,5 +65,6 @@ D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\obj\
 D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\obj\Debug\netcoreapp3.0\Com.Gosol.INOUT.Security.AssemblyInfoInputs.cache
 D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\obj\Debug\netcoreapp3.0\Com.Gosol.INOUT.Security.AssemblyInfo.cs
 D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\obj\Debug\netcoreapp3.0\Com.Gosol.INOUT.Security.csproj.CoreCompileInputs.cache
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\obj\Debug\netcoreapp3.0\Com.Gosol.INOUT.Security.sourcelink.json
 D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\obj\Debug\netcoreapp3.0\Com.Gosol.INOUT.Security.dll
 D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\obj\Debug\netcoreapp3.0\Com.Gosol.INOUT.Security.pdb

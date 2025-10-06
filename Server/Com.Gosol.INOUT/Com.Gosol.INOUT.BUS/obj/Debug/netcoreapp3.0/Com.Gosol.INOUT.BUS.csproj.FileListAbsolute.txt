@@ -120,6 +120,7 @@ D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.BUS\obj\Debug
 D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.BUS\obj\Debug\netcoreapp3.0\Com.Gosol.INOUT.BUS.AssemblyInfoInputs.cache
 D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.BUS\obj\Debug\netcoreapp3.0\Com.Gosol.INOUT.BUS.AssemblyInfo.cs
 D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.BUS\obj\Debug\netcoreapp3.0\Com.Gosol.INOUT.BUS.csproj.CoreCompileInputs.cache
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.BUS\obj\Debug\netcoreapp3.0\Com.Gosol.INOUT.BUS.sourcelink.json
 D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.BUS\obj\Debug\netcoreapp3.0\Com.Goso.526C9C2A.Up2Date
 D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.BUS\obj\Debug\netcoreapp3.0\Com.Gosol.INOUT.BUS.dll
 D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.BUS\obj\Debug\netcoreapp3.0\Com.Gosol.INOUT.BUS.pdb

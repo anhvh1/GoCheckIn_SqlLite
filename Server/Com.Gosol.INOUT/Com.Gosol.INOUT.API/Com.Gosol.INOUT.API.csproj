@@ -34,6 +34,7 @@
   <ItemGroup>
     <Folder Include="Controllers\BaoCao\" />
     <Folder Include="Controllers\Dashboard\" />
+    <Folder Include="Client\" />
     <Folder Include="Properties\" />
     <Folder Include="Upload\" />
   </ItemGroup>
