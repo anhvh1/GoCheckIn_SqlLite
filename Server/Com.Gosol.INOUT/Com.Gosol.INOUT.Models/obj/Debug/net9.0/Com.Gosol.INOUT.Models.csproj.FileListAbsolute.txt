@@ -1,0 +1,24 @@
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\bin\net9.0\Com.Gosol.INOUT.Models.deps.json
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\bin\net9.0\Com.Gosol.INOUT.Models.dll
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\bin\net9.0\Com.Gosol.INOUT.Models.pdb
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\Com.Gosol.INOUT.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\Com.Gosol.INOUT.Models.AssemblyInfoInputs.cache
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\Com.Gosol.INOUT.Models.AssemblyInfo.cs
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\Com.Gosol.INOUT.Models.csproj.CoreCompileInputs.cache
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\Com.Gosol.INOUT.Models.sourcelink.json
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\Com.Gosol.INOUT.Models.dll
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\refint\Com.Gosol.INOUT.Models.dll
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\Com.Gosol.INOUT.Models.pdb
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\ref\Com.Gosol.INOUT.Models.dll
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\bin\net9.0\Com.Gosol.INOUT.Models.deps.json
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\bin\net9.0\Com.Gosol.INOUT.Models.dll
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\bin\net9.0\Com.Gosol.INOUT.Models.pdb
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\Com.Gosol.INOUT.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\Com.Gosol.INOUT.Models.AssemblyInfoInputs.cache
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\Com.Gosol.INOUT.Models.AssemblyInfo.cs
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\Com.Gosol.INOUT.Models.csproj.CoreCompileInputs.cache
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\Com.Gosol.INOUT.Models.sourcelink.json
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\Com.Gosol.INOUT.Models.dll
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\refint\Com.Gosol.INOUT.Models.dll
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\Com.Gosol.INOUT.Models.pdb
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Models\obj\Debug\net9.0\ref\Com.Gosol.INOUT.Models.dll

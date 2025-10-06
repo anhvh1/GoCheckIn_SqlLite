@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
-            "targetAlias": "netcoreapp3.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
               "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.DAL\\Com.Gosol.INOUT.DAL.csproj": {
                 "projectPath": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.DAL\\Com.Gosol.INOUT.DAL.csproj"
@@ -52,8 +52,8 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "netcoreapp3.0": {
-          "targetAlias": "netcoreapp3.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -92,7 +92,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -100,8 +100,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
-            "targetAlias": "netcoreapp3.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
               "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Models\\Com.Gosol.INOUT.Models.csproj": {
                 "projectPath": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Models\\Com.Gosol.INOUT.Models.csproj"
@@ -128,44 +128,44 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "netcoreapp3.0": {
-          "targetAlias": "netcoreapp3.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "EPPlus": {
               "target": "Package",
-              "version": "[4.5.3.2, )"
+              "version": "[8.2.0, )"
             },
             "ExcelDataReader.DataSet": {
               "target": "Package",
-              "version": "[3.6.0, )"
+              "version": "[3.8.0, )"
             },
             "Grpc.Core": {
               "target": "Package",
-              "version": "[2.24.0, )"
+              "version": "[2.46.6, )"
             },
             "Microsoft.AspNetCore.Hosting.Abstractions": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[2.3.0, )"
             },
             "Microsoft.AspNetCore.Http.Features": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[5.0.17, )"
             },
             "MySqlConnector": {
               "target": "Package",
-              "version": "[0.60.1, )"
+              "version": "[2.4.0, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
-              "version": "[3.0.0-rc1.final, )"
+              "version": "[9.0.0, )"
             },
             "SharpZipLib": {
               "target": "Package",
-              "version": "[1.2.0, )"
+              "version": "[1.4.2, )"
             },
             "System.Text.Encoding.CodePages": {
               "target": "Package",
-              "version": "[4.7.1, )"
+              "version": "[9.0.9, )"
             }
           },
           "imports": [
@@ -184,7 +184,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -206,7 +206,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -214,8 +214,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
-            "targetAlias": "netcoreapp3.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -232,8 +232,8 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "netcoreapp3.0": {
-          "targetAlias": "netcoreapp3.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -250,7 +250,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -272,7 +272,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -280,8 +280,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
-            "targetAlias": "netcoreapp3.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -298,16 +298,16 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "netcoreapp3.0": {
-          "targetAlias": "netcoreapp3.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.AspNetCore.Http.Abstractions": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[2.3.0, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
-              "version": "[4.8.1, )"
+              "version": "[4.9.0, )"
             }
           },
           "imports": [
@@ -326,7 +326,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -348,7 +348,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -356,8 +356,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
-            "targetAlias": "netcoreapp3.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -374,28 +374,28 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "netcoreapp3.0": {
-          "targetAlias": "netcoreapp3.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.Data.Sqlite.Core": {
               "target": "Package",
-              "version": "[3.1.32, )"
+              "version": "[9.0.9, )"
             },
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
-              "version": "[3.1.32, )"
+              "version": "[9.0.9, )"
             },
             "MySql.Data": {
               "target": "Package",
-              "version": "[8.0.20, )"
+              "version": "[9.4.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[11.0.2, )"
+              "version": "[13.0.4, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
-              "version": "[4.7.0, )"
+              "version": "[4.9.0, )"
             }
           },
           "imports": [
@@ -414,7 +414,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

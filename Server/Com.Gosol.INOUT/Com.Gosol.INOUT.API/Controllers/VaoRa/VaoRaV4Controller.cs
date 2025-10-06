@@ -1023,40 +1023,40 @@ namespace Com.Gosol.INOUT.API.Controllers.VaoRa
         /// </summary>
         /// <param name="imageUrl"></param>
         /// <returns></returns>
-        public System.Drawing.Image DownloadImageFromUrl(string imageUrl)
-        {
-            System.Drawing.Image image = null;
+        //public System.Drawing.Image DownloadImageFromUrl(string imageUrl)
+        //{
+        //    System.Drawing.Image image = null;
 
-            try
-            {
-                System.Net.HttpWebRequest webRequest = (System.Net.HttpWebRequest)System.Net.HttpWebRequest.Create(imageUrl);
-                webRequest.AllowWriteStreamBuffering = true;
-                webRequest.Timeout = 30000;
+        //    try
+        //    {
+        //        System.Net.HttpWebRequest webRequest = (System.Net.HttpWebRequest)System.Net.HttpWebRequest.Create(imageUrl);
+        //        webRequest.AllowWriteStreamBuffering = true;
+        //        webRequest.Timeout = 30000;
 
-                System.Net.WebResponse webResponse = webRequest.GetResponse();
+        //        System.Net.WebResponse webResponse = webRequest.GetResponse();
 
-                System.IO.Stream stream = webResponse.GetResponseStream();
+        //        System.IO.Stream stream = webResponse.GetResponseStream();
 
-                //byte[] bytes;
-                //using (var memoryStream = new MemoryStream())
-                //{
-                //    stream.CopyTo(memoryStream);
-                //    bytes = memoryStream.ToArray();
-                //}
+        //        //byte[] bytes;
+        //        //using (var memoryStream = new MemoryStream())
+        //        //{
+        //        //    stream.CopyTo(memoryStream);
+        //        //    bytes = memoryStream.ToArray();
+        //        //}
 
-                //string base64 = Convert.ToBase64String(bytes);
+        //        //string base64 = Convert.ToBase64String(bytes);
 
-                image = System.Drawing.Image.FromStream(stream);
+        //        image = System.Drawing.Image.FromStream(stream);
 
-                webResponse.Close();
-            }
-            catch (Exception ex)
-            {
-                return null;
-            }
+        //        webResponse.Close();
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        return null;
+        //    }
 
-            return image;
-        }
+        //    return image;
+        //}
 
         /// <summary>
         /// dùng khi lấy ảnh từ đường dẫn ảnh của IP Camera

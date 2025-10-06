@@ -1,0 +1,26 @@
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Ultilities\bin\Release\net9.0\Com.Gosol.INOUT.Ultilities.deps.json
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Ultilities\bin\Release\net9.0\Com.Gosol.INOUT.Ultilities.dll
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Ultilities\bin\Release\net9.0\Com.Gosol.INOUT.Ultilities.pdb
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\Com.Gosol.INOUT.Ultilities.csproj.AssemblyReference.cache
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\Com.Gosol.INOUT.Ultilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\Com.Gosol.INOUT.Ultilities.AssemblyInfoInputs.cache
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\Com.Gosol.INOUT.Ultilities.AssemblyInfo.cs
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\Com.Gosol.INOUT.Ultilities.csproj.CoreCompileInputs.cache
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\Com.Gosol.INOUT.Ultilities.sourcelink.json
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\Com.Gosol.INOUT.Ultilities.dll
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\refint\Com.Gosol.INOUT.Ultilities.dll
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\Com.Gosol.INOUT.Ultilities.pdb
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\ref\Com.Gosol.INOUT.Ultilities.dll
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Ultilities\bin\Release\net9.0\Com.Gosol.INOUT.Ultilities.deps.json
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Ultilities\bin\Release\net9.0\Com.Gosol.INOUT.Ultilities.dll
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Ultilities\bin\Release\net9.0\Com.Gosol.INOUT.Ultilities.pdb
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\Com.Gosol.INOUT.Ultilities.csproj.AssemblyReference.cache
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\Com.Gosol.INOUT.Ultilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\Com.Gosol.INOUT.Ultilities.AssemblyInfoInputs.cache
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\Com.Gosol.INOUT.Ultilities.AssemblyInfo.cs
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\Com.Gosol.INOUT.Ultilities.csproj.CoreCompileInputs.cache
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\Com.Gosol.INOUT.Ultilities.sourcelink.json
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\Com.Gosol.INOUT.Ultilities.dll
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\refint\Com.Gosol.INOUT.Ultilities.dll
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\Com.Gosol.INOUT.Ultilities.pdb
+D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Ultilities\obj\Release\net9.0\ref\Com.Gosol.INOUT.Ultilities.dll
