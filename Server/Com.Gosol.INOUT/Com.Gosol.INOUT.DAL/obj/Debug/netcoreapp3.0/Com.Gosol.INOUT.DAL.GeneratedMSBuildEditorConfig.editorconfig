@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Com.Gosol.INOUT.DAL
-build_property.ProjectDir = D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.DAL\
+build_property.ProjectDir = D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.DAL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

@@ -74,11 +74,21 @@ namespace Com.Gosol.INOUT.API.Controllers
         {
             try
             {
-                QRCodeGenerator _qrCode = new QRCodeGenerator();
-                QRCodeData _qrCodeData = _qrCode.CreateQrCode(qrCodeText, QRCodeGenerator.ECCLevel.Q);
-                QRCode qrCode = new QRCode(_qrCodeData);
-                Bitmap qrCodeImage = qrCode.GetGraphic(20);
-                return "data:image/png;base64," + Convert.ToBase64String(BitmapToBytesCode(qrCodeImage));
+                //QRCodeGenerator _qrCode = new QRCodeGenerator();
+                //QRCodeData _qrCodeData = _qrCode.CreateQrCode(qrCodeText, QRCodeGenerator.ECCLevel.Q);
+
+                //QRCode qrCode = new QRCode(_qrCodeData);
+                //Bitmap qrCodeImage = qrCode.GetGraphic(20);
+                //return "data:image/png;base64," + Convert.ToBase64String(BitmapToBytesCode(qrCodeImage));
+
+
+                QRCodeGenerator qrGenerator = new QRCodeGenerator();
+                QRCodeData qrCodeData = qrGenerator.CreateQrCode(qrCodeText, QRCodeGenerator.ECCLevel.Q);
+
+                PngByteQRCode qrCode = new PngByteQRCode(qrCodeData);
+                byte[] qrCodeBytes = qrCode.GetGraphic(20); // 20 là pixel per module
+
+                return "data:image/png;base64," + Convert.ToBase64String(qrCodeBytes);
             }
             catch (Exception)
             {
@@ -86,14 +96,14 @@ namespace Com.Gosol.INOUT.API.Controllers
             }
         }
 
-        public static Byte[] BitmapToBytesCode(Bitmap image)
-        {
-            using (MemoryStream stream = new MemoryStream())
-            {
-                image.Save(stream, System.Drawing.Imaging.ImageFormat.Png);
-                return stream.ToArray();
-            }
-        }
+        //public static Byte[] BitmapToBytesCode(Bitmap image)
+        //{
+        //    using (MemoryStream stream = new MemoryStream())
+        //    {
+        //        image.Save(stream, System.Drawing.Imaging.ImageFormat.Png);
+        //        return stream.ToArray();
+        //    }
+        //}
 
         public async Task<FileDinhKemModel> InsertFileAnhAsync(IFormFile source, FileDinhKemModel AnhNhanVien, IHostingEnvironment _host, IFileDinhKemBUS _FileDinhKemBUS)
         {
@@ -120,13 +130,21 @@ namespace Com.Gosol.INOUT.API.Controllers
                     {
                         if (AnhNhanVien.Base64File != null && AnhNhanVien.Base64File.Length > 0)
                         {
+                            //byte[] bytes = Convert.FromBase64String(AnhNhanVien.Base64File);
+                            //Image image;
+                            //using (MemoryStream ms = new MemoryStream(bytes))
+                            //{
+                            //    image = Image.FromStream(ms);
+                            //    image.Save(_host.ContentRootPath + "\\" + fileInfo.FileUrl);
+                            //}
+
                             byte[] bytes = Convert.FromBase64String(AnhNhanVien.Base64File);
-                            Image image;
-                            using (MemoryStream ms = new MemoryStream(bytes))
-                            {
-                                image = Image.FromStream(ms);
-                                image.Save(_host.ContentRootPath + "\\" + fileInfo.FileUrl);
-                            }
+
+                            // Tạo full path để lưu file
+                            string filePath = Path.Combine(_host.ContentRootPath, fileInfo.FileUrl);
+
+                            // Lưu trực tiếp ra file (không cần Image)
+                            await File.WriteAllBytesAsync(filePath, bytes);
 
                             return fileInfo;
                         }

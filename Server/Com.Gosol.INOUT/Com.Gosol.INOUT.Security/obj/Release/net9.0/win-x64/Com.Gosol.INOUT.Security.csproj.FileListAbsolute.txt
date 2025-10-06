@@ -1,0 +1,13 @@
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Security\bin\Release\net9.0\win-x64\Com.Gosol.INOUT.Security.deps.json
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Security\bin\Release\net9.0\win-x64\Com.Gosol.INOUT.Security.dll
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Security\bin\Release\net9.0\win-x64\Com.Gosol.INOUT.Security.pdb
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Security\obj\Release\net9.0\win-x64\Com.Gosol.INOUT.Security.csproj.AssemblyReference.cache
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Security\obj\Release\net9.0\win-x64\Com.Gosol.INOUT.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Security\obj\Release\net9.0\win-x64\Com.Gosol.INOUT.Security.AssemblyInfoInputs.cache
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Security\obj\Release\net9.0\win-x64\Com.Gosol.INOUT.Security.AssemblyInfo.cs
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Security\obj\Release\net9.0\win-x64\Com.Gosol.INOUT.Security.csproj.CoreCompileInputs.cache
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Security\obj\Release\net9.0\win-x64\Com.Gosol.INOUT.Security.sourcelink.json
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Security\obj\Release\net9.0\win-x64\Com.Gosol.INOUT.Security.dll
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Security\obj\Release\net9.0\win-x64\refint\Com.Gosol.INOUT.Security.dll
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Security\obj\Release\net9.0\win-x64\Com.Gosol.INOUT.Security.pdb
+D:\Works\1. Projects\2021. GoCheckin\V5\Server\com.gosol.inout\Com.Gosol.INOUT.Security\obj\Release\net9.0\win-x64\ref\Com.Gosol.INOUT.Security.dll
