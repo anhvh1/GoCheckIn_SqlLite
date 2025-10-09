@@ -833,8 +833,10 @@ namespace Com.Gosol.INOUT.API.Controllers.VaoRa
                 return CreateActionResult("Lấy danh sách phân trang", EnumLogType.GetByName, () =>
                 {
                     var clsCommon = new Commons();
-                    //var folderName = Path.Combine(_SystemConfigBUS.GetByKey("UploadFile_Path").ConfigValue);
-                    string serverPath = clsCommon.GetServerPath(HttpContext) + "/ImageGoCheckIn/";
+                    ////var folderName = Path.Combine(_SystemConfigBUS.GetByKey("UploadFile_Path").ConfigValue);
+                    //string serverPath = clsCommon.GetServerPath(HttpContext) + "/ImageGoCheckIn/";
+                    var folderName = Path.Combine(_SystemConfigBUS.GetByKey("UploadFile_Path").ConfigValue);
+                    string serverPath = clsCommon.GetServerPath(HttpContext) + "/" + folderName + "/";
                     //string serverPath = folderName + "/UploadFile/";
                     var ttVao = _VaoRaBUS.GetListPageBySearch(p, Type, ref TotalRow, DonViSuDungID, NguoiDungID, serverPath);
                     if (ttVao.Count < 1) { base.Message = "Không có Dữ liệu"; }
@@ -1103,7 +1105,9 @@ namespace Com.Gosol.INOUT.API.Controllers.VaoRa
                 //tenFile = TenFileHeThong.Split('/').LastOrDefault() != null ? TenFileHeThong.Split('/').LastOrDefault() : "df.jpg";
                 if (file.Base64.Length > 0)
                 {
-                    var pathSaveFile = _SystemConfigBUS.GetByKey("UploadFile_Path").ConfigValue;
+                    //var pathSaveFile = _SystemConfigBUS.GetByKey("UploadFile_Path").ConfigValue;
+                    var relativePath = _SystemConfigBUS.GetByKey("UploadFile_Path").ConfigValue;
+                    var pathSaveFile = Path.Combine(_host.ContentRootPath, relativePath);
                     var b64 = file.Base64;
                     //b64 = b64.Split(',')[1];
                     if (b64.Contains(","))

@@ -1,16 +1,3 @@
-D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\bin\net9.0\Com.Gosol.INOUT.Security.deps.json
-D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\bin\net9.0\Com.Gosol.INOUT.Security.dll
-D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\bin\net9.0\Com.Gosol.INOUT.Security.pdb
-D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\obj\Debug\net9.0\Com.Gosol.INOUT.Security.csproj.AssemblyReference.cache
-D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\obj\Debug\net9.0\Com.Gosol.INOUT.Security.GeneratedMSBuildEditorConfig.editorconfig
-D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\obj\Debug\net9.0\Com.Gosol.INOUT.Security.AssemblyInfoInputs.cache
-D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\obj\Debug\net9.0\Com.Gosol.INOUT.Security.AssemblyInfo.cs
-D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\obj\Debug\net9.0\Com.Gosol.INOUT.Security.csproj.CoreCompileInputs.cache
-D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\obj\Debug\net9.0\Com.Gosol.INOUT.Security.sourcelink.json
-D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\obj\Debug\net9.0\Com.Gosol.INOUT.Security.dll
-D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\obj\Debug\net9.0\refint\Com.Gosol.INOUT.Security.dll
-D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\obj\Debug\net9.0\Com.Gosol.INOUT.Security.pdb
-D:\Works\1. Projects\2021. GoCheckin\V5\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\obj\Debug\net9.0\ref\Com.Gosol.INOUT.Security.dll
 D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\bin\net9.0\Com.Gosol.INOUT.Security.deps.json
 D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\bin\net9.0\Com.Gosol.INOUT.Security.dll
 D:\PhiNV\Go-CheckinVersion2\Server\Com.Gosol.INOUT\Com.Gosol.INOUT.Security\bin\net9.0\Com.Gosol.INOUT.Security.pdb

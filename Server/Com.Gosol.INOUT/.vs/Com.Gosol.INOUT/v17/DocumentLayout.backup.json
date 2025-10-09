@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\",
+  "WorkspaceRootPath": "D:\\Works\\1. Projects\\2021. GoCheckin\\V5\\Server\\Com.Gosol.INOUT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|d:\\works\\1. projects\\2021. gocheckin\\v5\\server\\com.gosol.inout\\com.gosol.inout.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|solutionrelative:com.gosol.inout.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84422F37-6EAC-4E27-AC19-49D106D779B3}|Com.Gosol.INOUT.Ultilities\\Com.Gosol.INOUT.Ultilities.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.ultilities\\querymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84422F37-6EAC-4E27-AC19-49D106D779B3}|Com.Gosol.INOUT.Ultilities\\Com.Gosol.INOUT.Ultilities.csproj|solutionrelative:com.gosol.inout.ultilities\\querymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|solutionrelative:com.gosol.inout.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84422F37-6EAC-4E27-AC19-49D106D779B3}|Com.Gosol.INOUT.Ultilities\\Com.Gosol.INOUT.Ultilities.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.ultilities\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84422F37-6EAC-4E27-AC19-49D106D779B3}|Com.Gosol.INOUT.Ultilities\\Com.Gosol.INOUT.Ultilities.csproj|solutionrelative:com.gosol.inout.ultilities\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|d:\\phinv\\go-checkinversion2\\server\\com.gosol.inout\\com.gosol.inout.api\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|solutionrelative:com.gosol.inout.api\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|d:\\works\\1. projects\\2021. gocheckin\\v5\\server\\com.gosol.inout\\com.gosol.inout.api\\controllers\\vaora\\vaorav4controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15FF25F-35C8-441E-AE8C-733B46C1251C}|Com.Gosol.INOUT.API\\Com.Gosol.INOUT.API.csproj|solutionrelative:com.gosol.inout.api\\controllers\\vaora\\vaorav4controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
@@ -58,67 +42,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QueryManager.cs",
-              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Ultilities\\QueryManager.cs",
-              "RelativeDocumentMoniker": "Com.Gosol.INOUT.Ultilities\\QueryManager.cs",
-              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Ultilities\\QueryManager.cs",
-              "RelativeToolTip": "Com.Gosol.INOUT.Ultilities\\QueryManager.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowFUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T03:04:13.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SQLHelper.cs",
-              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Ultilities\\SQLHelper.cs",
-              "RelativeDocumentMoniker": "Com.Gosol.INOUT.Ultilities\\SQLHelper.cs",
-              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Ultilities\\SQLHelper.cs",
-              "RelativeToolTip": "Com.Gosol.INOUT.Ultilities\\SQLHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T03:04:09.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SQLiteHelper.cs",
-              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\SQLiteHelper.cs",
-              "RelativeDocumentMoniker": "Com.Gosol.INOUT.API\\SQLiteHelper.cs",
-              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\SQLiteHelper.cs",
-              "RelativeToolTip": "Com.Gosol.INOUT.API\\SQLiteHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T03:03:42.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Program.cs",
+              "DocumentMoniker": "D:\\Works\\1. Projects\\2021. GoCheckin\\V5\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Program.cs",
               "RelativeDocumentMoniker": "Com.Gosol.INOUT.API\\Program.cs",
-              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Program.cs",
+              "ToolTip": "D:\\Works\\1. Projects\\2021. GoCheckin\\V5\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Program.cs",
               "RelativeToolTip": "Com.Gosol.INOUT.API\\Program.cs",
-              "ViewState": "AgIAAPQAAAAAAAAAAAAYwA8BAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAABYBAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T02:32:02.955Z",
+              "WhenOpened": "2025-10-09T06:22:43.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Com.Gosol.INOUT.API\\appsettings.json",
-              "ToolTip": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\appsettings.json",
-              "RelativeToolTip": "Com.Gosol.INOUT.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-06T02:30:39.048Z",
+              "DocumentIndex": 1,
+              "Title": "VaoRaV4Controller.cs",
+              "DocumentMoniker": "D:\\Works\\1. Projects\\2021. GoCheckin\\V5\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Controllers\\VaoRa\\VaoRaV4Controller.cs",
+              "RelativeDocumentMoniker": "Com.Gosol.INOUT.API\\Controllers\\VaoRa\\VaoRaV4Controller.cs",
+              "ToolTip": "D:\\Works\\1. Projects\\2021. GoCheckin\\V5\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.API\\Controllers\\VaoRa\\VaoRaV4Controller.cs",
+              "RelativeToolTip": "Com.Gosol.INOUT.API\\Controllers\\VaoRa\\VaoRaV4Controller.cs",
+              "ViewState": "AgIAAEcEAAAAAAAAAAAAAFoEAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:11:25.738Z",
               "EditorCaption": ""
             }
           ]

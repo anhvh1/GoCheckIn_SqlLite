@@ -1983,3 +1983,48 @@
 2025-10-06 11:36:36.4415 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.4.4534. Product version: 6.0.4+0f63723442db07c29eb838b0bce8b5633031a04e. GlobalAssemblyCache: False
 2025-10-06 11:36:36.4506 Info AutoReload Config File Monitor starting
 2025-10-06 11:36:36.4832 Info Configuration initialized.
+2025-10-06 13:57:21.0891 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2025-10-06 13:57:21.1086 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2025-10-06 13:57:21.1086 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.4.4534. Product version: 6.0.4+0f63723442db07c29eb838b0bce8b5633031a04e. GlobalAssemblyCache: False
+2025-10-06 13:57:21.1086 Info AutoReload Config File Monitor starting
+2025-10-06 13:57:21.1538 Info Configuration initialized.
+2025-10-06 13:58:03.8877 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2025-10-06 13:58:03.9021 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2025-10-06 13:58:03.9073 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.4.4534. Product version: 6.0.4+0f63723442db07c29eb838b0bce8b5633031a04e. GlobalAssemblyCache: False
+2025-10-06 13:58:03.9073 Info AutoReload Config File Monitor starting
+2025-10-06 13:58:03.9373 Info Configuration initialized.
+2025-10-06 13:58:45.5677 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2025-10-06 13:58:45.5815 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2025-10-06 13:58:45.5815 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.4.4534. Product version: 6.0.4+0f63723442db07c29eb838b0bce8b5633031a04e. GlobalAssemblyCache: False
+2025-10-06 13:58:45.5907 Info AutoReload Config File Monitor starting
+2025-10-06 13:58:45.6208 Info Configuration initialized.
+2025-10-06 13:59:16.7818 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2025-10-06 13:59:16.7818 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2025-10-06 13:59:16.7818 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.4.4534. Product version: 6.0.4+0f63723442db07c29eb838b0bce8b5633031a04e. GlobalAssemblyCache: False
+2025-10-06 13:59:16.8029 Info AutoReload Config File Monitor starting
+2025-10-06 13:59:16.8243 Info Configuration initialized.
+2025-10-06 14:00:08.5466 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2025-10-06 14:00:08.5466 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2025-10-06 14:00:08.5633 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.4.4534. Product version: 6.0.4+0f63723442db07c29eb838b0bce8b5633031a04e. GlobalAssemblyCache: False
+2025-10-06 14:00:08.5633 Info AutoReload Config File Monitor starting
+2025-10-06 14:00:08.5902 Info Configuration initialized.
+2025-10-06 14:02:05.9581 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2025-10-06 14:02:05.9733 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2025-10-06 14:02:05.9733 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.4.4534. Product version: 6.0.4+0f63723442db07c29eb838b0bce8b5633031a04e. GlobalAssemblyCache: False
+2025-10-06 14:02:05.9830 Info AutoReload Config File Monitor starting
+2025-10-06 14:02:06.0100 Info Configuration initialized.
+2025-10-06 15:51:16.5443 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2025-10-06 15:51:16.5614 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2025-10-06 15:51:16.5703 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.4.4534. Product version: 6.0.4+0f63723442db07c29eb838b0bce8b5633031a04e. GlobalAssemblyCache: False
+2025-10-06 15:51:16.5744 Info AutoReload Config File Monitor starting
+2025-10-06 15:51:16.6003 Info Configuration initialized.
+2025-10-06 16:08:39.2908 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2025-10-06 16:08:39.3072 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2025-10-06 16:08:39.3120 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.4.4534. Product version: 6.0.4+0f63723442db07c29eb838b0bce8b5633031a04e. GlobalAssemblyCache: False
+2025-10-06 16:08:39.3120 Info AutoReload Config File Monitor starting
+2025-10-06 16:08:39.3434 Info Configuration initialized.
+2025-10-06 16:43:19.6550 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2025-10-06 16:43:19.6693 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2025-10-06 16:43:19.6779 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.4.4534. Product version: 6.0.4+0f63723442db07c29eb838b0bce8b5633031a04e. GlobalAssemblyCache: False
+2025-10-06 16:43:19.6779 Info AutoReload Config File Monitor starting
+2025-10-06 16:43:19.7042 Info Configuration initialized.

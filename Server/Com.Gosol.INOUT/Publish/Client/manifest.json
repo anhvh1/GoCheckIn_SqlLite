@@ -1,0 +1,17 @@
+{
+  "name": "Go Checkin",
+  "short_name": "Go Checkin",
+  "theme_color": "#4482ff",
+  "background_color": "#2a2a2a",
+  "display": "browser",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "images/icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}

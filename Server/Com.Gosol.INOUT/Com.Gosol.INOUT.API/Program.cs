@@ -33,6 +33,8 @@ using System.IO;
 using System.Net.Http;
 using System.Text;
 using websocket;
+using Microsoft.Extensions.Hosting.WindowsServices;
+using NuGet.ProjectModel;
 
 //var builder = WebApplication.CreateBuilder(args);
 var builder = WebApplication.CreateBuilder(new WebApplicationOptions
@@ -41,6 +43,8 @@ var builder = WebApplication.CreateBuilder(new WebApplicationOptions
     // Look for static files in "wwwroot-custom"
     WebRootPath = "Client"
 });
+// 👇 Dòng quan trọng giúp app chạy được dưới dạng Windows Service
+builder.Host.UseWindowsService();
 
 // 🔹 NLog config
 builder.Logging.ClearProviders();
@@ -56,8 +60,35 @@ builder.Configuration
     .SetBasePath(basePath)
     .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
 var configuration = builder.Configuration;
-var connStr = configuration.GetValue<string>("ConnectionStringDB:DefaultConnection")
-                           .Replace("{BasePath}", basePath);
+
+
+
+//var connStr = configuration.GetValue<string>("ConnectionStringDB:DefaultConnection")
+//                           .Replace("{BasePath}", basePath);
+
+
+// basePath trỏ tới thư mục chứa exe (khi chạy dưới service)
+var hostPath = AppContext.BaseDirectory;
+
+// Lấy chuỗi kết nối gốc từ appsettings.json
+var connStr = configuration.GetValue<string>("ConnectionStringDB:DefaultConnection");
+
+// Nếu chuỗi kết nối chứa đường dẫn tương đối, ta chuyển thành tuyệt đối
+if (connStr.Contains("App_Data"))
+{
+    var dbPath = Path.Combine(hostPath, connStr);
+    connStr = $"Data Source={dbPath};";
+}
+else
+{
+    var dbPath = Path.Combine(hostPath, "App_Data", "gocheckin.db");
+    connStr = $"Data Source={dbPath};";
+}
+
+
+
+var logFile = Path.Combine(AppContext.BaseDirectory, "service_log.txt");
+File.AppendAllText(logFile, $"[{DateTime.Now}] {connStr}.\n");
 SQLHelper.connectionString = connStr;
 var queryFilePath = configuration.GetValue<string>("QueryFile:Path")
                                  .Replace("{BasePath}", basePath);
@@ -96,12 +127,12 @@ services.AddCors(c =>
         builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 });
 
-services.AddCors(options => options.AddPolicy("myDomain", builder =>
-{
-    builder.WithOrigins("http://gocheckin.gosol.com.vn")
-           .AllowAnyMethod()
-           .AllowAnyHeader();
-}));
+//services.AddCors(options => options.AddPolicy("myDomain", builder =>
+//{
+//    builder.WithOrigins("http://gocheckin.gosol.com.vn")
+//           .AllowAnyMethod()
+//           .AllowAnyHeader();
+//}));
 
 // JWT
 var appSettingsSection = configuration.GetSection("AppSettings");
@@ -231,15 +262,27 @@ var app = builder.Build();
 app.UseDefaultFiles();  // ← tự chọn index.html nếu có
 app.UseStaticFiles();
 
-var imagePath = configuration["StaticFiles:ImagePath"];
-if (!string.IsNullOrEmpty(imagePath) && Directory.Exists(imagePath))
+var projectRoot = Directory.GetParent(builder.Environment.ContentRootPath)?.FullName;
+var uploadPath = Path.Combine(projectRoot!, "UploadFile");
+uploadPath = Path.GetFullPath(uploadPath);
+
+// ✅ Log để bạn kiểm tra chắc chắn
+Console.WriteLine($"📂 Static file root: {uploadPath}");
+Console.WriteLine($"📁 Exists: {Directory.Exists(uploadPath)}");
+
+if (Directory.Exists(uploadPath))
 {
     app.UseStaticFiles(new StaticFileOptions
     {
-        FileProvider = new Microsoft.Extensions.FileProviders.PhysicalFileProvider(imagePath),
-        RequestPath = "/ImageGoCheckIn"
+        FileProvider = new Microsoft.Extensions.FileProviders.PhysicalFileProvider(uploadPath),
+        RequestPath = "/UploadFile"
     });
 }
+else
+{
+    Console.WriteLine("⚠️ Folder not found! Check your UploadFile directory path.");
+}
+
 
 
 app.UseCors("AllowOrigin");
@@ -257,10 +300,10 @@ app.MapHub<SocketHub>("/SocketHub", options =>
 });
 try
 {
-    var logFile = Path.Combine(AppContext.BaseDirectory, "service_log.txt");
+    //var logFile = Path.Combine(AppContext.BaseDirectory, "service_log.txt");
     File.AppendAllText(logFile, $"[{DateTime.Now}] Service starting...\n");
 
-    QueryManager.Load(configuration);
+    //QueryManager.Load(configuration);
     File.AppendAllText(logFile, $"[{DateTime.Now}] QueryManager loaded successfully.\n");
 
     app.Run();
@@ -271,5 +314,5 @@ catch (Exception ex)
         $"[{DateTime.Now}] ERROR: {ex}\n");
     throw;
 }
-
+app.MapGet("/", () => "Service is running!");
 app.Run();

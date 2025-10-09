@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Com.Gosol.INOUT.Ultilities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+384445c7bba8989aa0f5c6563675aab0ea6f9616")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8421774b9f0d315ad133f67fe72c7cbdc32b1f0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Com.Gosol.INOUT.Ultilities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Com.Gosol.INOUT.Ultilities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

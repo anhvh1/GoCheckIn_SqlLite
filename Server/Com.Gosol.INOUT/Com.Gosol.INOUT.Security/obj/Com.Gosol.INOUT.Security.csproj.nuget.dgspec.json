@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Security\\Com.Gosol.INOUT.Security.csproj": {}
+    "D:\\Works\\1. Projects\\2021. GoCheckin\\V5\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Security\\Com.Gosol.INOUT.Security.csproj": {}
   },
   "projects": {
-    "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Security\\Com.Gosol.INOUT.Security.csproj": {
+    "D:\\Works\\1. Projects\\2021. GoCheckin\\V5\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Security\\Com.Gosol.INOUT.Security.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Security\\Com.Gosol.INOUT.Security.csproj",
+        "projectUniqueName": "D:\\Works\\1. Projects\\2021. GoCheckin\\V5\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Security\\Com.Gosol.INOUT.Security.csproj",
         "projectName": "Com.Gosol.INOUT.Security",
-        "projectPath": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Security\\Com.Gosol.INOUT.Security.csproj",
-        "packagesPath": "C:\\Users\\PhiNV\\.nuget\\packages\\",
-        "outputPath": "D:\\PhiNV\\Go-CheckinVersion2\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Security\\obj\\",
+        "projectPath": "D:\\Works\\1. Projects\\2021. GoCheckin\\V5\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Security\\Com.Gosol.INOUT.Security.csproj",
+        "packagesPath": "C:\\Users\\anhvh\\.nuget\\packages\\",
+        "outputPath": "D:\\Works\\1. Projects\\2021. GoCheckin\\V5\\Server\\Com.Gosol.INOUT\\Com.Gosol.INOUT.Security\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PhiNV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anhvh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -71,12 +71,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[9.0.4, 9.0.4]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[9.0.4, 9.0.4]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[9.0.4, 9.0.4]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }
