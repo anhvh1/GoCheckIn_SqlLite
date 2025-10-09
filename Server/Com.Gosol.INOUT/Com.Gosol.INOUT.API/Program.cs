@@ -298,6 +298,8 @@ app.MapHub<SocketHub>("/SocketHub", options =>
 {
     options.Transports = HttpTransportType.WebSockets;
 });
+
+app.MapFallbackToFile("index.html");
 try
 {
     //var logFile = Path.Combine(AppContext.BaseDirectory, "service_log.txt");
